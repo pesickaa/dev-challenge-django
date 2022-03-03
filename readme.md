@@ -1,3 +1,22 @@
+# Alexis Pesicka - Finimize Challenge 
+
+### How you approached the challenge
+I approached this challenge first by getting and understanding of the math I needed to perform. Understanding how the calculation worked meant I could break it down into reusable parts, and then use them accordingly. Then I made it work entirely in the frontend so I knew that my understanding of the calculations was correct. Finally, I moved all the calculations into the backend and used Axios to pass the data between the frontend and backend, as this is how I am used to doing API calls. 
+
+As I am primarily a frontend developer, the backend portion of this task took me a bit longer to wrap my head around. If I have a better understanding of how the API is desired to work and function, I can better convert my understanding to thatand adapt my workflow much more quickly. 
+
+I spent several days learning React and getting an understanding of how Django worked so I could try and make it work. As I have no professional experience with React or Django, this meant I needed to go take a few days to be able to understand how to do things properly. I also had no experience with Chakra UI, which lead to some minor confusion, but ultimately it seems like a fun UI framework. 
+
+### What bits of your solution you like
+I enjoyed playing around with the Chakra UI framework, and if I had more time to play around with it, I would be interested to see how to better use it along side React
+
+### What bits of your solution you’d like to improve upon
+* I would make it so that there was more granular control of the variables. Adding a slider for how many years someone wanted to invest, giving a breakdown of how the principal and monthly deposits look versus the growth of the investment. 
+
+* Knowing more about the LineChart used, as well as having more experience with Chakra UI might help me to make much more reactive frontend elements. 
+
+* Chakra UI seems like it has a lot more things to help with accessibility, but having never used it before in a professional setting, I would personally love to spend more time learning about the best way to use all the inputs it provides.  
+
 # Finimize dev challenge
 
 This repo is intended to be forked and uploaded to your own Github account in
